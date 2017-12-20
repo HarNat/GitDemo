@@ -6,3 +6,7 @@ Learning Git
 Working with Git
 
 Editing a file in Git
+
+Demo2 Branch
+
+Squash merging branch 2
